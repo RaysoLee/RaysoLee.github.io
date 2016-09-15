@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rayso's Blog</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Sep 2016 15:42:01 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 15:42:01 +0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>邂逅单反相机-单反相机的基础入门</title>
+        <description>&lt;h3 id=&quot;section&quot;&gt;为什么他叫单反&lt;/h3&gt;
+
+&lt;p&gt;单反：单镜头反光数码相机&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86.png&quot; alt=&quot;相机原理图对比&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;为什么选择单反&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1.大面积的传感器保证了高画质
+2.可更换镜头
+3.机身性能优异
+4.相比无反相机耗电较低
+5.主动控制——创作
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;拍摄一张好的照片的几个要素&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E7%85%A7%E7%89%87%E8%A6%81%E7%B4%A0.jpg&quot; alt=&quot;相机原理图对比&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;曝光三要素——来自相机&lt;/h3&gt;
+&lt;p&gt;光圈 + 快门 + 感光度
+&lt;strong&gt;明暗对比&lt;/strong&gt;
+&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E6%98%8E%E6%9A%97%E5%AF%B9%E6%AF%94.png&quot; alt=&quot;明暗对比&quot; /&gt;
+&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E5%85%89%E5%9C%88%E5%8E%9F%E7%90%86%E5%9B%BE.png&quot; alt=&quot;光圈&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;光圈越大，画面越亮，景深越浅即背景虚化；
+  拍摄人像多用大光圈；&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;光圈之景深&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E5%85%89%E5%9C%88%E4%B9%8B%E6%99%AF%E6%B7%B1_meitu_6.jpg&quot; alt=&quot;光圈之景深&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E5%BF%AB%E9%97%A8.png&quot; alt=&quot;快门&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;快门越快，曝光时间越长，画面越暗；
+拍摄动态景、物多用较快的快门；&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;快门之速度&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E5%BF%AB%E9%97%A8%E4%B9%8B%E9%80%9F%E5%BA%A6%20_meitu_7.jpg&quot; alt=&quot;快门之速度&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E6%84%9F%E5%85%89%E5%BA%A6.png&quot; alt=&quot;感光度&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;感光度越高，画面越亮，但画质越差即噪点较多；
+光线较暗的环境，多用较高的感光度；&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;感光度之噪点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/ISO%E4%B9%8B%E5%99%AA%E7%82%B9_meitu_4.jpg&quot; alt=&quot;感光度之噪点&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;练习&lt;/h3&gt;
+
+&lt;p&gt;以下照片应如何调整？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;照片一&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E8%BF%87%E6%9B%9D.jpg&quot; alt=&quot;过曝&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;照片二&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://od1bl5rt5.bkt.clouddn.com/%E6%9A%97_meitu_5.jpg&quot; alt=&quot;暗&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;q-&quot;&gt;Q ？&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 10:55:35 +0800</pubDate>
+        <link>/photography/2016/09/15/encounter-SLR-camera.html</link>
+        <guid isPermaLink="true">/photography/2016/09/15/encounter-SLR-camera.html</guid>
+        
+        
+        <category>Photography</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 13 Sep 2016 21:58:35 +0800</pubDate>
+        <link>/jekyll/update/2016/09/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2016/09/13/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
